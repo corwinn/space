@@ -1,0 +1,1 @@
+GALLIUM_HUD="VRAM-usage,GPU-load;sensors_temp_cu-amdgpu-pci-0100.temp1,cpu" ./space

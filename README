@@ -1,0 +1,59 @@
+
+What is it?
+===========
+
+A "more-colors" remake of "kspace.kss" - a "KDE" 3.5.10 screensaver.
+
+
+Why?
+====
+
+Because one day "KDE" 3.5.10 will become either not build-able or not run-able
+and/or people will leave "kspace.kss" unmaintained, etc., and I really like what
+it does. But mostly because things like "kspace.kss" should be short and simple,
+and certainly not dependable on enormous frameworks like "KDE" and its primary
+dependency.
+
+
+What will it become?
+====================
+
+More believable space flight simulator I hope (with impossible speeds of course,
+because as you all probably know, the distances between the known stars are
+immense; or should I say the distances are improbable?)
+
+
+Keyboard keys
+=============
+
+ * 'q' - quits the program
+ * 'f' - toggle full-screen
+ * 'p' - pause/resume the animation (debug purposes mostly)
+
+
+How to build
+============
+
+ * *nix:
+     - clang: type "Make"
+     - others: "cat Makefile" and figure it out :) TODO
+ * x86_64-w64-mingw32-clang++: type ". build_it_mingw"
+ * "VS": TODO (create dev. env. with "FreeGLUT-3.4.0"; should compile and run as
+               expected, but one can't be sure until it does)
+
+
+Credits
+=======
+
+Thanks to:
+
+  * "KDE" 3.5.10 "kspace.kss" - for the insipration.
+  * "FreeGLUT-3.4.0" for the, windowing system to "Open GL", bridge.
+  * "MinGW-w64-9.0.0" for the means of cross-compiling the "Windows" OS binary.
+
+
+Disclaimer
+==========
+
+All trademarks and/or service marks used in this project are the trademarks
+and/or service marks of their respective owners.

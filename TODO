@@ -1,0 +1,8 @@
+[ ] test-suite
+[ ] command line options: num of stars, speed, colors, etc.
+[ ] keyboard keys: speed up/down, rotate
+[ ] VBO option
+[ ] shader option
+[ ] Open GL 3 option
+[ ] Open GL 4 option
+[ ] cmake
