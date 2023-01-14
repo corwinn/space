@@ -1,3 +1,10 @@
+/*
+   "I think the woman was born in Far Madding in a thunderstorm. She probably
+    told the thunder to be quiet. It probably did."
+      Basel Gill
+*/
+
+
 /**** BEGIN LICENSE BLOCK ****
 
 BSD 3-Clause License
@@ -31,14 +38,6 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 **** END LICENCE BLOCK ****/
-
-
-/*
- "I think the woman was born in Far Madding in a thunderstorm. She probably
-  told the thunder to be quiet. It probably did."
-    Basel Gill
-*/
-
 
 // kspace.kss attempt. An old code of mine. TODO a lot to improve below
 
